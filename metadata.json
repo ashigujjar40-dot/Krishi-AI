@@ -1,0 +1,7 @@
+{
+  "name": "Krishi Saathi",
+  "description": "Mobile-first AI crop advisor and local dealer ordering platform for Indian farmers with WhatsApp order tracking, weather & spray advisories, multilingual voice support, and disease diagnosis.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
